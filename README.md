@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Hey, I'm Shaiv, a Software Engineeirng student at San Jose State University.
 <!--
 **ShaivPandya/ShaivPandya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
