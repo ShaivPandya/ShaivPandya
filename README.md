@@ -1,1 +1,1 @@
-https://wwww.shaivpandya.github.io/
+https://www.shaiv.co/
